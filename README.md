@@ -4,6 +4,9 @@
 
 A sleek and modern Netflix clone built using **React**, **Vite**, **Tailwind CSS**, and **AI**. This project emulates the user experience of the Netflix platform, offering a seamless interface for content browsing, personalized recommendations, and much more.
 
+![image](https://github.com/user-attachments/assets/94df8557-6078-4193-a361-b753f4c3d84f)
+
+
 ## **Features**
 
 - **Authentication:** Secure and smooth login and registration flow with email and password authentication.
